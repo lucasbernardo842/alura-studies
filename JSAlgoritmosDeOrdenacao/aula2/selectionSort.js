@@ -1,5 +1,5 @@
-const livros = require("/Alurashit/JSAlgoritmosDeOrdenacao/aula1/listalivros");
-const menorValor = require("/Alurashit/JSAlgoritmosDeOrdenacao/aula1/menorValor");
+const livros = require("../aula1/listalivros");
+const menorValor = require("../aula1/menorValor");
 const troca = require('../aula3/troca')
 
 // for (let atual = 0; atual < livros.length - 1; atual++){
